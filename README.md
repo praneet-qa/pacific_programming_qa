@@ -47,7 +47,3 @@ To run the Cypress tests, make sure the sample app Docker container is running. 
    ```
 
 Cypress will execute the tests and provide the results in the terminal.
-
-## Contributing
-
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
