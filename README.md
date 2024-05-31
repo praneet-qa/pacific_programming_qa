@@ -1,3 +1,5 @@
+#Test File located at: cypress/e2e/test.cy.js
+
 # Sample App - Running Locally with Docker
 
 This repository contains a sample web application along with Cypress tests. You can use Docker to run the application locally and execute the tests.
