@@ -13,7 +13,7 @@ To run the sample app locally using Docker, follow these steps:
 1. Navigate to the project directory:
 
    ```bash
-   cd sample-app
+   cd praneet_atwal_qa_task
    ```
 
 2. Build the Docker image and run:
@@ -31,7 +31,7 @@ To run the Cypress tests, make sure the sample app Docker container is running. 
 1. Navigate to the project directory if you're not already there:
 
    ```bash
-   cd sample-app
+   cd praneet_atwal_qa_task
    ```
 
 2. Install Cypress and its dependencies:
